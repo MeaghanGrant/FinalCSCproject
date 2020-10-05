@@ -1,0 +1,49 @@
+.BackgroundBody
+{
+    background-color: cornsilk;
+    margin-top: 40px;
+    margin-left: 460px;
+    
+}
+#BackgroundBox1
+{
+    border: 5px solid;
+    padding: 30px;
+    width: 500px;
+    height: 480px;
+    border-radius: 20px; 
+    box-shadow: 5px 5px 5px 5px #777777;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    background-color:darkseagreen;
+}
+.BackgroundHeader
+{
+    text-decoration: underline;
+}
+.BackgroundSummary
+{
+    text-indent: 20px;
+}
+a:link
+{
+    color:black;
+    text-decoration: underline;
+}
+a:visited
+{
+    color:black;
+}
+a:hover
+{
+    color:deeppink;
+}
+a
+{
+    cursor:alias;
+}
+ul
+{
+    list-style-type: circle;
+}

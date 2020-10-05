@@ -1,0 +1,15 @@
+[
+    {
+        "Category": "Total",
+        "Value":"198457"
+    },
+   {
+        "Category": "Male",
+        "Value":"133721"
+        
+    },
+    {
+        "Category": "Female",
+        "Value":"64736"
+    }
+]

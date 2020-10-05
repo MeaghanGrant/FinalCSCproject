@@ -1,0 +1,22 @@
+[
+    {
+        "Type": "Unintentional",
+        "Value":"129539"
+    },
+    {
+        "Type": "Suicide",
+        "Value":"15082"
+    },
+    {
+        "Type": "Homicide",
+        "Value":"819"
+    },
+    {
+        "Type": "Undetermined",
+        "Value":"9995"
+    },
+    {
+        "Type": "Not Classified",
+        "Value":"40707"
+    }
+]

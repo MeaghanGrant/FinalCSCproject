@@ -1,0 +1,67 @@
+.SourcesBody
+{
+    background-color: antiquewhite;
+    margin-left: 460px;
+}
+#SourcesBox1
+{
+    border: 5px solid;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px 5px #777777;
+    background-color:darksalmon;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;  
+}
+#SourcesBox2
+{
+    border: 5px solid;
+    padding: 20px;
+    width: 500px;
+    height: 150px;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px 5px #777777;
+    background-color: darksalmon; 
+    margin-left: 20px;
+    margin-bottom: 20px; 
+}
+#SourcesBox3
+{
+    border: 5px solid;
+    padding: 20px;
+    width: 500px;
+    height: 160px;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 5px 5px #777777;
+    background-color: darksalmon; 
+    margin-left: 20px;
+    margin-bottom: 20px; 
+}
+.SourcesTitle
+{
+    text-decoration: underline;
+}
+p
+{
+    text-indent: 20px;
+}
+a:link
+{
+    color: black;
+    text-decoration: underline;
+}
+a:visited
+{
+    color: black;
+}
+a:hover
+{
+    color: blueviolet;
+}
+a
+{
+    cursor:alias;
+}

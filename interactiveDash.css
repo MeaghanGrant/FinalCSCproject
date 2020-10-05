@@ -1,0 +1,109 @@
+#InteractiveBody
+{
+    background-color:cornsilk;
+}
+#dashTitle
+{
+    text-decoration: underline;
+}
+path
+{
+    fill:none;
+    stroke:black;
+    stroke-width:4px;
+}
+
+#graph
+{
+    float:right;
+    overflow:auto;
+    display:block;
+    background-color: cadetblue;
+}
+#graph1
+{
+    float:left;
+    overflow:auto;
+    display:block;
+    background-color: darkseagreen;
+}
+#graph3
+{
+    float:left;
+    overflow:auto;
+    display:block;
+    background-color: tan;
+}
+#graph4
+{
+    float:left;
+    display:block;
+    background-color: darksalmon;
+}
+#graph5
+{
+    float:both;
+    display:block;
+    background-color: gainsboro;
+}
+#tooltip.hidden
+{
+    display:none;
+}
+
+#tooltip
+{
+    position:absolute;
+    width:auto;
+    height:auto;
+    padding:10px;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+    pointer-events:none;
+}
+#Year
+{
+    font-size: 30px;
+}
+.label
+{
+    font-size: 17px;
+    font-weight: bold;
+}
+.title
+{
+    font-size: 18px;
+    font-weight: bold;
+     text-decoration: underline;
+    
+}
+#graph .title
+{
+    font-size: 25px;
+}
+#graph .label
+{
+    font-size: 20px;
+}
+#graph .tick
+{
+    font-size: 12px;
+}
+a:link
+{
+    color:black;
+    text-decoration: underline;
+}
+a:visited
+{
+    color:black;
+}
+a:hover
+{
+    color:deeppink;
+}
+a
+{
+    cursor:alias;
+}
